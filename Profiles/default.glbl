@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\Users\\Inspire\\Katalon Studio\\mobileDemo.git\\APK\\Android-MyDemoAppRN.1.3.0.build-244.apk'</initValue>
+      <name>AndroidAPK</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'bob@example.com'</initValue>
+      <name>Username1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'10203040'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'alice@example.com'</initValue>
+      <name>lockedUser</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
