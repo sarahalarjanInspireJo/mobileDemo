@@ -3,9 +3,9 @@
    <description></description>
    <name>Login</name>
    <tag></tag>
-   <elementGuidId>69a9d80c-3de1-41eb-bfcb-0ca5c838f07f</elementGuidId>
+   <elementGuidId>a9f2004d-0085-45c3-a423-0c6faab4d368</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
-   <locator>//android.view.ViewGroup[@content-desc=&quot;menu item log in&quot;]/android.widget.TextView</locator>
+   <locator>//android.view.ViewGroup[@content-desc=&quot;menu item log in&quot;]</locator>
    <locatorStrategy>XPATH</locatorStrategy>
 </MobileElementEntity>

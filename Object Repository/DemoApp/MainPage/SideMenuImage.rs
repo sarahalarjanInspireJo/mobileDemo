@@ -3,7 +3,7 @@
    <description></description>
    <name>SideMenuImage</name>
    <tag></tag>
-   <elementGuidId>353b6abd-5a88-47fb-a68d-6ff6cf29b96b</elementGuidId>
+   <elementGuidId>92643452-6f65-4e07-8b02-faeeac085bc4</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <locator>//android.view.ViewGroup[@content-desc=&quot;open menu&quot;]/android.widget.ImageView</locator>
