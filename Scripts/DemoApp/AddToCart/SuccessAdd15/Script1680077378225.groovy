@@ -20,15 +20,7 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication(GlobalVariable.AndroidAPK, true)
 
-Mobile.tap(findTestObject('DemoApp/AddToCart/android.widget.TextView - Sauce Labs Backpack'), 0)
 
-Mobile.tap(findTestObject('DemoApp/AddToCart/android.view.ViewGroup'), 0)
-
-Mobile.scrollToText('Product Highlights')
-
-Mobile.tap(findTestObject('DemoApp/AddToCart/android.widget.TextView - Add To Cart'), 0)
-
-Mobile.tap(findTestObject('DemoApp/AddToCart/android.widget.ImageView'), 0)
 
 Mobile.takeScreenshot('C:\\Users\\Inspire\\Katalon Studio\\MobileAuto.git\\ScreenshootCart.png')
 
